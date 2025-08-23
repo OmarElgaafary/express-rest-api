@@ -1,7 +1,7 @@
 let users = [
     {
         username: 'crymenot',
-        id: 500
+        id: 500,
     },
     {
         username: 'vern',
@@ -14,3 +14,4 @@ let users = [
 ]
 
 module.exports = users
+
